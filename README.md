@@ -1,5 +1,7 @@
 ## ShadowNetwork
 
+##### NOTE: SOURCE CODE FOR SHADOW NETWORK FILE WILL BE MADE AVAILABLE AFTER GETTING ACCEPTANCE OF THE PAPER, NOW, WE HAVE PROVIDED THE RESULT FILES, THAT CAN BE USED TO COMPARE AND VALIDATE THE RESEARCH WORK.
+
 ### Application Of this reseach work
 A twitter bot is build using this research work, and is named [Heilige Quotes](https://twitter.com/HeiligeQuotes).
 
@@ -113,4 +115,3 @@ The "Shadow.txt" contains the training loss when Shadow Network is applied, whil
 ```
 >>> python3 plot.py
 ```
-##### NOTE: SOURCE CODE FOR SHADOW NETWORK FILE WILL BE MADE AVAILABLE AFTER GETTING ACCEPTANCE OF THE PAPER, NOW, WE HAVE PROVIDED THE RESULT FILES, THAT CAN BE USED TO COMPARE AND VALIDATE THE RESEARCH WORK.
