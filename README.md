@@ -3,7 +3,8 @@
 ##### NOTE: SOURCE CODE FOR SHADOW NETWORK FILE WILL BE MADE AVAILABLE AFTER GETTING ACCEPTANCE OF THE PAPER, NOW, WE HAVE PROVIDED THE RESULT FILES, THAT CAN BE USED TO COMPARE AND VALIDATE THE RESEARCH WORK.
 
 ### Application Of this reseach work
-A twitter bot is build using this research work, and is named [Heilige Quotes](https://twitter.com/HeiligeQuotes).
+- A twitter bot is build using this research work, and is named [Heilige Quotes](https://twitter.com/HeiligeQuotes).
+- An A.I. based startup company named [Cliqueraft](http://www.cliqueraft.com) have build an A.I bot named [Cliquebot](https://twitter.com/Cliquebot) using this research work "Shadow Network".
 
 ### Project Structure
 This repository contains the source code of "Shadow Network" over LSTMS and GRUs. implemented in Tensorflow over Simpson Dataset. The directory structure is as follows:
