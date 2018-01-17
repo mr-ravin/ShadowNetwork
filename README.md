@@ -4,7 +4,7 @@
 
 ### Application Of this reseach work
 - A twitter bot is build by Author of this research work, and named the bot [Heilige Quotes](https://twitter.com/HeiligeQuotes).
-- An A.I. based startup company named [Cliqueraft](https://twitter.com/Cliqueraft) have build an A.I bot named [Cliquebot](https://twitter.com/Cliquebot) using this research work "Shadow Network".
+
 
 ### Project Structure
 This repository contains the source code of "Shadow Network" over LSTMS and GRUs. implemented in Tensorflow over Simpson Dataset. The directory structure is as follows:
