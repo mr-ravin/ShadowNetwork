@@ -1,6 +1,7 @@
 ## ShadowNetwork
+This repository contains the source code and experimental results of the paper.
 
-##### NOTE: SOURCE CODE FOR SHADOW NETWORK FILE WILL BE MADE AVAILABLE AFTER GETTING ACCEPTANCE OF THE PAPER, NOW, WE HAVE PROVIDED THE RESULT FILES, THAT CAN BE USED TO COMPARE AND VALIDATE THE RESEARCH WORK.
+Author: Ravin Kumar
 
 ### Application Of this reseach work
 - A twitter bot is build by Author of this research work, and named the bot [Heilige Quotes](https://twitter.com/HeiligeQuotes).
