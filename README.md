@@ -117,3 +117,5 @@ The "Shadow.txt" contains the training loss when Shadow Network is applied, whil
 ```
 >>> python3 plot.py
 ```
+
+### Note: This work can be used only for academic research work after providing proper citation and deserved credits to this work. For Industrial, commercial or any other use, permission is required from the Author.
