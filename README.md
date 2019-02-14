@@ -1,5 +1,5 @@
 ## ShadowNetwork
-This repository contains the source code and experimental results of the paper.
+This repository contains the source code and experimental results of the paper: "A new approach to train models based on LSTMs, GRUs, and other similar variants."  presented in NGCT 2018,  Dehradun. Research paper will soon get published in CCIS Series of Springer.
 
 Author: Ravin Kumar
 
