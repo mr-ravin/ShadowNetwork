@@ -4,7 +4,7 @@ This repository contains the source code and experimental results of the paper: 
 Author: Ravin Kumar
 
 ### Application Of this reseach work
-- A twitter bot is build by Author of this research work to show effectiveness of his proposed work in data generation, and named the bot [Heilige Quotes](https://twitter.com/HeiligeQuotes). This bot is deployed on Odroid XU4, and geneate quotes for given hashtags, and then post them on its twitter handle. Source code for this bot is not released, as it could be used by some people for spamming on twitter. Although the deep learning architecture on which it is based is provided in this repository. 
+A twitter bot is build by Author of this research work to show effectiveness of his proposed work in data generation, and named the bot [Heilige Quotes](https://twitter.com/HeiligeQuotes). This bot is deployed on Odroid XU4, and geneate quotes for given hashtags, and then post them on its twitter handle. Source code for this bot is not released, as it could be used by some people for spamming on twitter. Although the deep learning architecture on which it is based is provided in this repository. 
 
 [![Working Demonstration](https://github.com/mr-ravin/ShadowNetwork/blob/master/heiligequotes.gif)](https://www.youtube.com/watch?v=FfgvSfScHR8)
 
