@@ -4,7 +4,8 @@ This repository contains the source code and experimental results of the paper: 
 Author: Ravin Kumar
 
 ### Application Of this reseach work
-- A twitter bot is build by Author of this research work, and named the bot [Heilige Quotes](https://twitter.com/HeiligeQuotes).
+- A twitter bot is build by Author of this research work for show effectiveness of his proposed work in data generation, and named the bot [Heilige Quotes](https://twitter.com/HeiligeQuotes).
+
 [![Working Demonstration](https://github.com/mr-ravin/ShadowNetwork/blob/master/heiligequotes.gif)](https://www.youtube.com/watch?v=FfgvSfScHR8)
 
 ### Project Structure
