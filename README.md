@@ -5,7 +5,7 @@ Author: Ravin Kumar
 
 ### Application Of this reseach work
 - A twitter bot is build by Author of this research work, and named the bot [Heilige Quotes](https://twitter.com/HeiligeQuotes).
-
+[![Working Demonstration](https://github.com/mr-ravin/ShadowNetwork/blob/master/heiligequotes.gif)](https://www.youtube.com/watch?v=FfgvSfScHR8)
 
 ### Project Structure
 This repository contains the source code of "Shadow Network" over LSTMS and GRUs. implemented in Tensorflow over Simpson Dataset. The directory structure is as follows:
