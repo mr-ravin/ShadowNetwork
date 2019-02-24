@@ -1,7 +1,7 @@
 ## ShadowNetwork
 This repository contains the source code and experimental results of the paper: "A new approach to train models based on LSTMs, GRUs, and other similar variants."  presented in NGCT 2018,  Dehradun. Research paper will soon get published in CCIS Series of Springer.
 
-Author: Ravin Kumar
+Author: [Ravin Kumar](https://mr-ravin.github.io)
 
 ### Application Of this reseach work
 A twitter bot is build by Author of this research work to show effectiveness of his proposed work in data generation, and named the bot [Heilige Quotes](https://twitter.com/HeiligeQuotes). This bot is deployed on Odroid XU4 computing device, and generate quotes for given hashtags, and then post them on its twitter handle. Source code for this bot is not released, as it could be used by some people for spamming on twitter. Although the deep learning architecture on which it is based on, is implemented in Tensorflow and provided in this repository. 
