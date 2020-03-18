@@ -3,7 +3,11 @@ This repository contains the source code and experimental results of the paper: 
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Springerlink: https://link.springer.com/chapter/10.1007%2F978-981-15-1718-1_14
+#### Publication: 24th November 2019
+
+#### Publication Link: https://link.springer.com/chapter/10.1007%2F978-981-15-1718-1_14
+
+#### Doi: https://doi.org/10.1007/978-981-15-1718-1_14
 
 #### Cite as:
 ```
