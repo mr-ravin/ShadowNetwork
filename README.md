@@ -1,6 +1,8 @@
 ## ShadowNetwork
 This repository contains the source code and experimental results of the paper: "A new approach to train models based on LSTMs, GRUs, and other similar variants". The research paper is published in the CCIS Series of Springer.
 
+#### Paper Title: A New Approach to Train LSTMs, GRUs, and Other Similar Networks for Data Generation
+
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
 #### Publication: 24th November 2019
