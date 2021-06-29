@@ -31,12 +31,12 @@ ShadowNetwork
 |-LSTM
 |   |-Uni (contains LSTM model without Shadow)
 |   |-ShadowBoard (contains LSTM model with Shadow)
-|   |-plot.pyc (python file to plot comparitive graph)
+|   |-plot.pyc (python file to plot comparative graph)
 |
 |-GRU
 |  |-Uni (contains GRU model without Shadow)
 |  |-ShadowBoard (contains GRU model with Shadow)
-|  |-plot.pyc (python file to plot comparitive graph)
+|  |-plot.pyc (python file to plot comparative graph)
 |
 |-Results (Contains Experimental Result Data)
    |
@@ -109,7 +109,8 @@ Now, Copy both "Uni.txt" and "Shadow.txt" to LSTM directory, and run:
 ```
 >>> python3 plot.pyc
 ```
-This will represent the comparative difference between the training loss among model that uses 'Shadow' vs. that does not uses 'Shadow'.
+This will represent the 
+ative difference between the training loss among model that uses 'Shadow' vs. that does not uses 'Shadow'.
 
 ### Inference for Uni model
 ```
